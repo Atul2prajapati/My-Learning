@@ -1,0 +1,12 @@
+1) CQ1 Insight - updated the image to be shown in full size.
+
+2) The SKM block is not generated.
+
+3) At CQ2 - the display logic should be from CSVA instead of CSVL . Please check this out.
+
+4) At CSQ2 GLP-1 - we have some words in english in question text ("Ozempic, Wegovy, Mounjaro") please confirm if that is fine.
+
+5) We are showing the intro and image in the same page before INTRB, please let us know if that is fine.
+
+6) currently we do not have any product piping translation in CXOLT, please let us know if that is fine.7) Please also check the brand netting7) Please also check the brand netting7) Please also check the brand netting7) Please also check the brand netting7) Please also check the brand netting <br>7) Please also check the brand netting7) Please also check the brand netting7) Please also check the brand nettingPlease also check the brand netting
+Please also check the brand netting
