@@ -1,3 +1,4 @@
+from logging import config
 import os
 
 # File READing CODE 
@@ -79,3 +80,5 @@ with open("Practice.txt") as F:
 
 with open("Namingsheet.txt","w") as F:
     F.write(content)
+
+
